@@ -19,18 +19,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">My name is Derick Teodoro</h3>
 
------
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/derickteodoro/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
------
-
 ###
 
 <div align="left">
@@ -49,4 +37,12 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
 </div>
 
+<hr style="border: 1px solid #d1d9e0b3;" />
+
 ###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/derickteodoro/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
