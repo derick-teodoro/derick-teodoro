@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
 </div>
 
-<hr style="border: 1px solid #d1d9e0b3;" />
+<h2 dir="auto"></h2>
 
 ###
 
